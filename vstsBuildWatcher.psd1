@@ -59,7 +59,7 @@
  
     # Functions to export from this module
     FunctionsToExport = @(
-    'Show-FailedVstsBuilds'
+    'Show-VstsBuilds'
     )
     # Cmdlets to export from this module
     CmdletsToExport = '*'
